@@ -25,4 +25,4 @@ if movement_input == "s" or movement_input == "S":
 
 # við elskum git
 
-#Virkar þetta?
+#Virkar þetta? já
