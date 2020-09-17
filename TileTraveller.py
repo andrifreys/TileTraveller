@@ -13,4 +13,8 @@ west = 0
 movement = 0
 
 
-if movement_input == "s" or movement_input == "S":   
+if movement_input == "s" or movement_input == "S":  
+
+    user_input = input("Skrifaðu hér: ")
+
+    print(user_input)
