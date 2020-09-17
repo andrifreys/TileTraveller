@@ -24,3 +24,5 @@ if movement_input == "s" or movement_input == "S":
 # ég elska git
 
 # við elskum git
+
+#eh bull
