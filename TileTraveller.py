@@ -29,3 +29,4 @@ if movement_input == "s" or movement_input == "S":
 
 # Gargandi snild maður!
 # Þetta verður kannski vesen
+# hvað gerist núna?
