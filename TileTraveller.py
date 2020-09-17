@@ -25,4 +25,6 @@ if movement_input == "s" or movement_input == "S":
 
 # við elskum git
 
-#Virkar þetta? já
+#Virkar þetta? já.
+
+# Gargandi snild maður!
