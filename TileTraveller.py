@@ -1,9 +1,6 @@
-This is a test!
+#This is a test!
 
 print("Hello World")
-
-þetta er breyting nr þrjú
-
 
 movement_input = int(input("Enter a direction: "))
 south = 0
@@ -18,3 +15,6 @@ if movement_input == "s" or movement_input == "S":
     user_input = input("Skrifaðu hér: ")
 
     print(user_input)
+
+
+# Er þetta ekki bara allt að gerast
